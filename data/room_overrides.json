@@ -1,0 +1,62 @@
+{
+  "Chelab": {
+    "ac": null,
+    "capacity": null,
+    "floor": "Unknown"
+  },
+  "EEC107": {
+    "ac": null,
+    "capacity": null,
+    "floor": "1"
+  },
+  "EEC309": {
+    "ac": null,
+    "capacity": null,
+    "floor": "3"
+  },
+  "G602": {
+    "ac": null,
+    "capacity": null,
+    "floor": "6"
+  },
+  "HTB106": {
+    "ac": null,
+    "capacity": null,
+    "floor": "1"
+  },
+  "IST108": {
+    "ac": null,
+    "capacity": null,
+    "floor": "1"
+  },
+  "IST20": {
+    "ac": null,
+    "capacity": null,
+    "floor": "Ground"
+  },
+  "IST201": {
+    "ac": null,
+    "capacity": null,
+    "floor": "2"
+  },
+  "IST21": {
+    "ac": null,
+    "capacity": null,
+    "floor": "Ground"
+  },
+  "IST602": {
+    "ac": null,
+    "capacity": null,
+    "floor": "6"
+  },
+  "IST626": {
+    "ac": null,
+    "capacity": null,
+    "floor": "6"
+  },
+  "IST710": {
+    "ac": null,
+    "capacity": null,
+    "floor": "7"
+  }
+}

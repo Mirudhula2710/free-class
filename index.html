@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Free Class Locator</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Rajdhani:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1>Free Class Locator</h1>
+      <div class="controls">
+        <button id="btn-live" class="btn primary">LIVE</button>
+        <select id="day-select">
+          <option value="Monday">Monday</option>
+          <option value="Tuesday">Tuesday</option>
+          <option value="Wednesday">Wednesday</option>
+          <option value="Thursday">Thursday</option>
+          <option value="Friday">Friday</option>
+        </select>
+        <input type="time" id="time-input">
+        <button id="toggle-view" class="btn">3D Map</button>
+      </div>
+    </header>
+
+    <div class="card">
+      <input type="text" id="ai-search" placeholder="Describe what you need (e.g. Free room for the next hour)" style="width:100%; font-size:1.1rem; padding:10px;">
+      <div id="ai-results" style="margin-top:10px;"></div>
+    </div>
+
+    <div class="card summary-strip">
+      <span id="summary-text">Loading data...</span>
+    </div>
+
+    <div id="view-grid" style="display:block;">
+      <div id="floors-container"></div>
+    </div>
+
+    <div id="view-map" style="display:none;">
+      <div id="map3d"></div>
+    </div>
+  </div>
+
+  <div id="room-panel">
+    <button class="close-btn" onclick="closePanel()">×</button>
+    <h2 id="panel-title">Room</h2>
+    <p id="panel-status"></p>
+    <p id="panel-countdown" style="font-size:1.5rem; font-weight:bold; color: var(--accent);"></p>
+    <div style="margin-top:15px; display:flex; gap:10px; flex-direction:column;">
+      <button class="btn primary" id="btn-squad" onclick="callSquad()">Call the Squad</button>
+      <button class="btn" id="btn-report" onclick="reportRoom()">Report this room</button>
+    </div>
+  </div>
+
+  <footer style="margin-top: 2rem; color: var(--text-muted); font-size: 0.8rem; border-top: 1px solid #333; padding-top: 1rem;">
+    Based on the provided timetables only. Rooms used by other departments are not included. AC and capacity are editable in data/room_overrides.json. Rooms marked 'No known class' have no timetable data. <br>
+    <span id="data-badge" style="background:#333; padding:2px 5px; border-radius:3px;">Data built: -</span>
+  </footer>
+
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

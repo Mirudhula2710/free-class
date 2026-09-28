@@ -1,0 +1,233 @@
+[
+  {
+    "id": "ChemistryLab",
+    "floor": "Unknown",
+    "capacity": null,
+    "ac": null,
+    "type": "Lab"
+  },
+  {
+    "id": "EEC107",
+    "floor": "1",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "EEC309",
+    "floor": "3",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "G401",
+    "floor": "4",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "G602",
+    "floor": "6",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "G625",
+    "floor": "6",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "GIST520",
+    "floor": "5",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "HTB106",
+    "floor": "1",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "I108",
+    "floor": "1",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST108",
+    "floor": "1",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST20",
+    "floor": "Ground",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST201",
+    "floor": "2",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST21",
+    "floor": "Ground",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST211",
+    "floor": "2",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST225",
+    "floor": "2",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST227",
+    "floor": "2",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST411",
+    "floor": "4",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST416",
+    "floor": "4",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST502",
+    "floor": "5",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST510",
+    "floor": "5",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST518",
+    "floor": "5",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST519",
+    "floor": "5",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST520",
+    "floor": "5",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST602",
+    "floor": "6",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST609",
+    "floor": "6",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST617",
+    "floor": "6",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST618",
+    "floor": "6",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST626",
+    "floor": "6",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST702",
+    "floor": "7",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "IST710",
+    "floor": "7",
+    "capacity": null,
+    "ac": null,
+    "type": "Classroom"
+  },
+  {
+    "id": "LAB107",
+    "floor": "1",
+    "capacity": null,
+    "ac": null,
+    "type": "Lab"
+  },
+  {
+    "id": "LAB108",
+    "floor": "1",
+    "capacity": null,
+    "ac": null,
+    "type": "Lab"
+  },
+  {
+    "id": "LAB309",
+    "floor": "3",
+    "capacity": null,
+    "ac": null,
+    "type": "Lab"
+  }
+]

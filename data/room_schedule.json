@@ -1,0 +1,2921 @@
+[
+  {
+    "room": "IST602",
+    "day": "Monday",
+    "period": 1,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Monday",
+    "period": 2,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Monday",
+    "period": 3,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Monday",
+    "period": 4,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "ChemistryLab",
+    "day": "Monday",
+    "period": 6,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "ChemistryLab",
+    "day": "Monday",
+    "period": 7,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST710",
+    "day": "Monday",
+    "period": 8,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST710",
+    "day": "Monday",
+    "period": 9,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Tuesday",
+    "period": 1,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Tuesday",
+    "period": 2,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Tuesday",
+    "period": 3,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Tuesday",
+    "period": 4,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST20",
+    "day": "Tuesday",
+    "period": 6,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST21",
+    "day": "Tuesday",
+    "period": 6,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST20",
+    "day": "Tuesday",
+    "period": 7,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST21",
+    "day": "Tuesday",
+    "period": 7,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST20",
+    "day": "Tuesday",
+    "period": 8,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST21",
+    "day": "Tuesday",
+    "period": 8,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST20",
+    "day": "Tuesday",
+    "period": 9,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST21",
+    "day": "Tuesday",
+    "period": 9,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Wednesday",
+    "period": 1,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Wednesday",
+    "period": 2,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Wednesday",
+    "period": 3,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST618",
+    "day": "Wednesday",
+    "period": 6,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST618",
+    "day": "Wednesday",
+    "period": 7,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST108",
+    "day": "Wednesday",
+    "period": 8,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST108",
+    "day": "Wednesday",
+    "period": 9,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Thursday",
+    "period": 2,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Thursday",
+    "period": 4,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST510",
+    "day": "Thursday",
+    "period": 6,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST510",
+    "day": "Thursday",
+    "period": 7,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST201",
+    "day": "Thursday",
+    "period": 8,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST201",
+    "day": "Thursday",
+    "period": 9,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Friday",
+    "period": 1,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Friday",
+    "period": 2,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Friday",
+    "period": 3,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Friday",
+    "period": 4,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Friday",
+    "period": 6,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST626",
+    "day": "Friday",
+    "period": 8,
+    "section": "I ECE-A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST609",
+    "day": "Monday",
+    "period": 1,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "ChemistryLab",
+    "day": "Monday",
+    "period": 3,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "ChemistryLab",
+    "day": "Monday",
+    "period": 4,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Monday",
+    "period": 6,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Monday",
+    "period": 7,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Monday",
+    "period": 8,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Monday",
+    "period": 9,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST20",
+    "day": "Tuesday",
+    "period": 2,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST21",
+    "day": "Tuesday",
+    "period": 2,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST20",
+    "day": "Tuesday",
+    "period": 3,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST21",
+    "day": "Tuesday",
+    "period": 3,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST20",
+    "day": "Tuesday",
+    "period": 4,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST21",
+    "day": "Tuesday",
+    "period": 4,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Tuesday",
+    "period": 6,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Tuesday",
+    "period": 7,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Tuesday",
+    "period": 8,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Tuesday",
+    "period": 9,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST710",
+    "day": "Wednesday",
+    "period": 1,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "GIST520",
+    "day": "Wednesday",
+    "period": 1,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST617",
+    "day": "Wednesday",
+    "period": 2,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST510",
+    "day": "Wednesday",
+    "period": 3,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST510",
+    "day": "Wednesday",
+    "period": 4,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST618",
+    "day": "Wednesday",
+    "period": 5,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST618",
+    "day": "Wednesday",
+    "period": 6,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Wednesday",
+    "period": 7,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Wednesday",
+    "period": 8,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Wednesday",
+    "period": 9,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST201",
+    "day": "Thursday",
+    "period": 1,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST201",
+    "day": "Thursday",
+    "period": 2,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST626",
+    "day": "Thursday",
+    "period": 3,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST710",
+    "day": "Thursday",
+    "period": 4,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Thursday",
+    "period": 6,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Thursday",
+    "period": 8,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST617",
+    "day": "Friday",
+    "period": 1,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST617",
+    "day": "Friday",
+    "period": 2,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST626",
+    "day": "Friday",
+    "period": 5,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST626",
+    "day": "Friday",
+    "period": 6,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Friday",
+    "period": 8,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Friday",
+    "period": 9,
+    "section": "I ECE-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST710",
+    "day": "Monday",
+    "period": 1,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST510",
+    "day": "Monday",
+    "period": 2,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST617",
+    "day": "Monday",
+    "period": 3,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST617",
+    "day": "Monday",
+    "period": 4,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST502",
+    "day": "Monday",
+    "period": 6,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST502",
+    "day": "Monday",
+    "period": 7,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST502",
+    "day": "Monday",
+    "period": 8,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST502",
+    "day": "Monday",
+    "period": 9,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "ChemistryLab",
+    "day": "Tuesday",
+    "period": 1,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "ChemistryLab",
+    "day": "Tuesday",
+    "period": 2,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST201",
+    "day": "Tuesday",
+    "period": 3,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST201",
+    "day": "Tuesday",
+    "period": 4,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST502",
+    "day": "Tuesday",
+    "period": 6,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST502",
+    "day": "Tuesday",
+    "period": 7,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST502",
+    "day": "Tuesday",
+    "period": 8,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST502",
+    "day": "Tuesday",
+    "period": 9,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST510",
+    "day": "Wednesday",
+    "period": 1,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST510",
+    "day": "Wednesday",
+    "period": 2,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST710",
+    "day": "Wednesday",
+    "period": 3,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST617",
+    "day": "Wednesday",
+    "period": 5,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST617",
+    "day": "Wednesday",
+    "period": 6,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST502",
+    "day": "Wednesday",
+    "period": 7,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST502",
+    "day": "Wednesday",
+    "period": 8,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST502",
+    "day": "Wednesday",
+    "period": 9,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST710",
+    "day": "Thursday",
+    "period": 1,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST510",
+    "day": "Thursday",
+    "period": 2,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST710",
+    "day": "Thursday",
+    "period": 3,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST502",
+    "day": "Thursday",
+    "period": 5,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST502",
+    "day": "Thursday",
+    "period": 8,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST502",
+    "day": "Thursday",
+    "period": 9,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST626",
+    "day": "Friday",
+    "period": 2,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST617",
+    "day": "Friday",
+    "period": 4,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST20",
+    "day": "Friday",
+    "period": 7,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST21",
+    "day": "Friday",
+    "period": 7,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST20",
+    "day": "Friday",
+    "period": 8,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST21",
+    "day": "Friday",
+    "period": 8,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST20",
+    "day": "Friday",
+    "period": 9,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST21",
+    "day": "Friday",
+    "period": 9,
+    "section": "I ECE-DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST520",
+    "day": "Monday",
+    "period": 1,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST520",
+    "day": "Monday",
+    "period": 2,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST520",
+    "day": "Monday",
+    "period": 3,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST710",
+    "day": "Monday",
+    "period": 4,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "GIST520",
+    "day": "Monday",
+    "period": 4,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST702",
+    "day": "Monday",
+    "period": 6,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST702",
+    "day": "Monday",
+    "period": 7,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST702",
+    "day": "Monday",
+    "period": 8,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST702",
+    "day": "Monday",
+    "period": 9,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST710",
+    "day": "Tuesday",
+    "period": 1,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST710",
+    "day": "Tuesday",
+    "period": 2,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST520",
+    "day": "Tuesday",
+    "period": 3,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST710",
+    "day": "Tuesday",
+    "period": 4,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST702",
+    "day": "Tuesday",
+    "period": 7,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST702",
+    "day": "Tuesday",
+    "period": 8,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST702",
+    "day": "Tuesday",
+    "period": 9,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST20",
+    "day": "Wednesday",
+    "period": 2,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST21",
+    "day": "Wednesday",
+    "period": 2,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST20",
+    "day": "Wednesday",
+    "period": 3,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST21",
+    "day": "Wednesday",
+    "period": 3,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST20",
+    "day": "Wednesday",
+    "period": 4,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST21",
+    "day": "Wednesday",
+    "period": 4,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST702",
+    "day": "Wednesday",
+    "period": 6,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST702",
+    "day": "Wednesday",
+    "period": 7,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST702",
+    "day": "Wednesday",
+    "period": 8,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST702",
+    "day": "Wednesday",
+    "period": 9,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "ChemistryLab",
+    "day": "Thursday",
+    "period": 1,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "ChemistryLab",
+    "day": "Thursday",
+    "period": 2,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST710",
+    "day": "Thursday",
+    "period": 3,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST510",
+    "day": "Thursday",
+    "period": 4,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "GIST520",
+    "day": "Thursday",
+    "period": 4,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST702",
+    "day": "Thursday",
+    "period": 6,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST702",
+    "day": "Thursday",
+    "period": 8,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST702",
+    "day": "Friday",
+    "period": 1,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST702",
+    "day": "Friday",
+    "period": 2,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST702",
+    "day": "Friday",
+    "period": 3,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST702",
+    "day": "Friday",
+    "period": 5,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST617",
+    "day": "Friday",
+    "period": 8,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST617",
+    "day": "Friday",
+    "period": 9,
+    "section": "I Biotech-B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Monday",
+    "period": 1,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Monday",
+    "period": 2,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Monday",
+    "period": 3,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Monday",
+    "period": 4,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "EEC107",
+    "day": "Monday",
+    "period": 6,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "EEC309",
+    "day": "Monday",
+    "period": 6,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "EEC107",
+    "day": "Monday",
+    "period": 7,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "EEC309",
+    "day": "Monday",
+    "period": 7,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Tuesday",
+    "period": 1,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Tuesday",
+    "period": 2,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Tuesday",
+    "period": 3,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Tuesday",
+    "period": 4,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "HTB106",
+    "day": "Tuesday",
+    "period": 6,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Wednesday",
+    "period": 1,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Wednesday",
+    "period": 2,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Wednesday",
+    "period": 3,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "HTB106",
+    "day": "Wednesday",
+    "period": 6,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "G602",
+    "day": "Wednesday",
+    "period": 7,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Thursday",
+    "period": 1,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Thursday",
+    "period": 2,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Thursday",
+    "period": 3,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Thursday",
+    "period": 4,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "EEC107",
+    "day": "Thursday",
+    "period": 8,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "EEC309",
+    "day": "Thursday",
+    "period": 8,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "EEC107",
+    "day": "Thursday",
+    "period": 9,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "EEC309",
+    "day": "Thursday",
+    "period": 9,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Friday",
+    "period": 1,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Friday",
+    "period": 2,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Friday",
+    "period": 3,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST602",
+    "day": "Friday",
+    "period": 4,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "G602",
+    "day": "Friday",
+    "period": 8,
+    "section": "II BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST416",
+    "day": "Monday",
+    "period": 1,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST416",
+    "day": "Monday",
+    "period": 2,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST416",
+    "day": "Monday",
+    "period": 3,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST416",
+    "day": "Monday",
+    "period": 4,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "G602",
+    "day": "Monday",
+    "period": 6,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "G602",
+    "day": "Monday",
+    "period": 7,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB309",
+    "day": "Monday",
+    "period": 8,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB107",
+    "day": "Monday",
+    "period": 8,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB309",
+    "day": "Monday",
+    "period": 9,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB107",
+    "day": "Monday",
+    "period": 9,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST416",
+    "day": "Tuesday",
+    "period": 1,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST416",
+    "day": "Tuesday",
+    "period": 2,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST416",
+    "day": "Tuesday",
+    "period": 3,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST416",
+    "day": "Tuesday",
+    "period": 4,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "G602",
+    "day": "Tuesday",
+    "period": 6,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "HTB106",
+    "day": "Tuesday",
+    "period": 8,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "HTB106",
+    "day": "Tuesday",
+    "period": 9,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST416",
+    "day": "Wednesday",
+    "period": 1,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST416",
+    "day": "Wednesday",
+    "period": 2,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST416",
+    "day": "Wednesday",
+    "period": 3,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST416",
+    "day": "Wednesday",
+    "period": 4,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "HTB106",
+    "day": "Wednesday",
+    "period": 7,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST416",
+    "day": "Thursday",
+    "period": 1,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST416",
+    "day": "Thursday",
+    "period": 2,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST416",
+    "day": "Thursday",
+    "period": 3,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST416",
+    "day": "Thursday",
+    "period": 4,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB309",
+    "day": "Thursday",
+    "period": 6,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB107",
+    "day": "Thursday",
+    "period": 6,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB309",
+    "day": "Thursday",
+    "period": 7,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB107",
+    "day": "Thursday",
+    "period": 7,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST416",
+    "day": "Friday",
+    "period": 1,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST416",
+    "day": "Friday",
+    "period": 2,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST416",
+    "day": "Friday",
+    "period": 3,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST416",
+    "day": "Friday",
+    "period": 4,
+    "section": "II ECE DS A",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB309",
+    "day": "Monday",
+    "period": 3,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB107",
+    "day": "Monday",
+    "period": 3,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB309",
+    "day": "Monday",
+    "period": 4,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB107",
+    "day": "Monday",
+    "period": 4,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST411",
+    "day": "Monday",
+    "period": 6,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST411",
+    "day": "Monday",
+    "period": 7,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST411",
+    "day": "Monday",
+    "period": 8,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST411",
+    "day": "Monday",
+    "period": 9,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB309",
+    "day": "Tuesday",
+    "period": 1,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB107",
+    "day": "Tuesday",
+    "period": 1,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB309",
+    "day": "Tuesday",
+    "period": 2,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB107",
+    "day": "Tuesday",
+    "period": 2,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST411",
+    "day": "Tuesday",
+    "period": 6,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST411",
+    "day": "Tuesday",
+    "period": 7,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST411",
+    "day": "Tuesday",
+    "period": 8,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST411",
+    "day": "Tuesday",
+    "period": 9,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "G401",
+    "day": "Wednesday",
+    "period": 1,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "G401",
+    "day": "Wednesday",
+    "period": 2,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST411",
+    "day": "Wednesday",
+    "period": 6,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST411",
+    "day": "Wednesday",
+    "period": 7,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST411",
+    "day": "Wednesday",
+    "period": 8,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST411",
+    "day": "Wednesday",
+    "period": 9,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "G401",
+    "day": "Thursday",
+    "period": 1,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "G401",
+    "day": "Thursday",
+    "period": 2,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "HTB106",
+    "day": "Thursday",
+    "period": 3,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "HTB106",
+    "day": "Thursday",
+    "period": 4,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST411",
+    "day": "Thursday",
+    "period": 6,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST411",
+    "day": "Thursday",
+    "period": 7,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST411",
+    "day": "Thursday",
+    "period": 8,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST411",
+    "day": "Thursday",
+    "period": 9,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "HTB106",
+    "day": "Friday",
+    "period": 1,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "HTB106",
+    "day": "Friday",
+    "period": 2,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST411",
+    "day": "Friday",
+    "period": 6,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST411",
+    "day": "Friday",
+    "period": 7,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST411",
+    "day": "Friday",
+    "period": 8,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST411",
+    "day": "Friday",
+    "period": 9,
+    "section": "II ECE DS B",
+    "subject": "Class"
+  },
+  {
+    "room": "G625",
+    "day": "Monday",
+    "period": 1,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "G625",
+    "day": "Monday",
+    "period": 2,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB107",
+    "day": "Monday",
+    "period": 3,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB107",
+    "day": "Monday",
+    "period": 4,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST211",
+    "day": "Monday",
+    "period": 6,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST211",
+    "day": "Monday",
+    "period": 7,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST211",
+    "day": "Monday",
+    "period": 8,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST211",
+    "day": "Monday",
+    "period": 9,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB108",
+    "day": "Tuesday",
+    "period": 1,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB108",
+    "day": "Tuesday",
+    "period": 2,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "G625",
+    "day": "Tuesday",
+    "period": 3,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST211",
+    "day": "Tuesday",
+    "period": 6,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST211",
+    "day": "Tuesday",
+    "period": 7,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST211",
+    "day": "Tuesday",
+    "period": 8,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST211",
+    "day": "Tuesday",
+    "period": 9,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST211",
+    "day": "Wednesday",
+    "period": 6,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST211",
+    "day": "Wednesday",
+    "period": 7,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST211",
+    "day": "Wednesday",
+    "period": 8,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST211",
+    "day": "Wednesday",
+    "period": 9,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "I108",
+    "day": "Thursday",
+    "period": 4,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST211",
+    "day": "Thursday",
+    "period": 6,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST211",
+    "day": "Thursday",
+    "period": 7,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST211",
+    "day": "Thursday",
+    "period": 8,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST211",
+    "day": "Thursday",
+    "period": 9,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "I108",
+    "day": "Friday",
+    "period": 1,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST211",
+    "day": "Friday",
+    "period": 6,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST211",
+    "day": "Friday",
+    "period": 7,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST211",
+    "day": "Friday",
+    "period": 8,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST211",
+    "day": "Friday",
+    "period": 9,
+    "section": "III BME",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Monday",
+    "period": 1,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Monday",
+    "period": 2,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Monday",
+    "period": 3,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Monday",
+    "period": 4,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "G625",
+    "day": "Monday",
+    "period": 6,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "G625",
+    "day": "Monday",
+    "period": 7,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Tuesday",
+    "period": 1,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Tuesday",
+    "period": 2,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Tuesday",
+    "period": 3,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Tuesday",
+    "period": 4,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "G625",
+    "day": "Tuesday",
+    "period": 7,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Wednesday",
+    "period": 1,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Wednesday",
+    "period": 2,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Wednesday",
+    "period": 3,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Wednesday",
+    "period": 4,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB108",
+    "day": "Wednesday",
+    "period": 8,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB309",
+    "day": "Wednesday",
+    "period": 8,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB108",
+    "day": "Wednesday",
+    "period": 9,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB309",
+    "day": "Wednesday",
+    "period": 9,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Thursday",
+    "period": 1,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Thursday",
+    "period": 2,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Thursday",
+    "period": 3,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Thursday",
+    "period": 4,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Friday",
+    "period": 1,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Friday",
+    "period": 2,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Friday",
+    "period": 3,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Friday",
+    "period": 4,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB108",
+    "day": "Friday",
+    "period": 6,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB309",
+    "day": "Friday",
+    "period": 6,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB108",
+    "day": "Friday",
+    "period": 7,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB309",
+    "day": "Friday",
+    "period": 7,
+    "section": "III ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB108",
+    "day": "Monday",
+    "period": 1,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB309",
+    "day": "Monday",
+    "period": 1,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB108",
+    "day": "Monday",
+    "period": 2,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB309",
+    "day": "Monday",
+    "period": 2,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Monday",
+    "period": 6,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Monday",
+    "period": 7,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Monday",
+    "period": 8,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Monday",
+    "period": 9,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "G625",
+    "day": "Tuesday",
+    "period": 1,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "G625",
+    "day": "Tuesday",
+    "period": 2,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Tuesday",
+    "period": 6,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Tuesday",
+    "period": 7,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Tuesday",
+    "period": 8,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Tuesday",
+    "period": 9,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "G625",
+    "day": "Wednesday",
+    "period": 1,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Wednesday",
+    "period": 6,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Wednesday",
+    "period": 7,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Wednesday",
+    "period": 8,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Wednesday",
+    "period": 9,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB108",
+    "day": "Thursday",
+    "period": 1,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB309",
+    "day": "Thursday",
+    "period": 1,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB108",
+    "day": "Thursday",
+    "period": 2,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB309",
+    "day": "Thursday",
+    "period": 2,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Thursday",
+    "period": 6,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Thursday",
+    "period": 7,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Thursday",
+    "period": 8,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Thursday",
+    "period": 9,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Friday",
+    "period": 6,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Friday",
+    "period": 7,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Friday",
+    "period": 8,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST518",
+    "day": "Friday",
+    "period": 9,
+    "section": "III ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST519",
+    "day": "Monday",
+    "period": 1,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST519",
+    "day": "Monday",
+    "period": 2,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST519",
+    "day": "Monday",
+    "period": 3,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST519",
+    "day": "Monday",
+    "period": 4,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST519",
+    "day": "Tuesday",
+    "period": 1,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST519",
+    "day": "Tuesday",
+    "period": 2,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST519",
+    "day": "Tuesday",
+    "period": 3,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST519",
+    "day": "Tuesday",
+    "period": 4,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB108",
+    "day": "Tuesday",
+    "period": 6,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB107",
+    "day": "Tuesday",
+    "period": 6,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB108",
+    "day": "Tuesday",
+    "period": 7,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB107",
+    "day": "Tuesday",
+    "period": 7,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST519",
+    "day": "Wednesday",
+    "period": 1,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST519",
+    "day": "Wednesday",
+    "period": 2,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST519",
+    "day": "Wednesday",
+    "period": 3,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST519",
+    "day": "Wednesday",
+    "period": 4,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "G625",
+    "day": "Wednesday",
+    "period": 8,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "G625",
+    "day": "Wednesday",
+    "period": 9,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST519",
+    "day": "Thursday",
+    "period": 1,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST519",
+    "day": "Thursday",
+    "period": 2,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST519",
+    "day": "Thursday",
+    "period": 3,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST519",
+    "day": "Thursday",
+    "period": 4,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST519",
+    "day": "Friday",
+    "period": 1,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST519",
+    "day": "Friday",
+    "period": 2,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST519",
+    "day": "Friday",
+    "period": 3,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST519",
+    "day": "Friday",
+    "period": 4,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "G625",
+    "day": "Friday",
+    "period": 6,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "G625",
+    "day": "Friday",
+    "period": 7,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB108",
+    "day": "Friday",
+    "period": 8,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB107",
+    "day": "Friday",
+    "period": 8,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB108",
+    "day": "Friday",
+    "period": 9,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "LAB107",
+    "day": "Friday",
+    "period": 9,
+    "section": "III ECE DS",
+    "subject": "Class"
+  },
+  {
+    "room": "IST225",
+    "day": "Monday",
+    "period": 1,
+    "section": "IV ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST225",
+    "day": "Monday",
+    "period": 3,
+    "section": "IV ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST225",
+    "day": "Monday",
+    "period": 4,
+    "section": "IV ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST225",
+    "day": "Tuesday",
+    "period": 1,
+    "section": "IV ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST225",
+    "day": "Tuesday",
+    "period": 2,
+    "section": "IV ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST225",
+    "day": "Tuesday",
+    "period": 3,
+    "section": "IV ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST225",
+    "day": "Tuesday",
+    "period": 4,
+    "section": "IV ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST225",
+    "day": "Wednesday",
+    "period": 1,
+    "section": "IV ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST108",
+    "day": "Wednesday",
+    "period": 2,
+    "section": "IV ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST108",
+    "day": "Wednesday",
+    "period": 3,
+    "section": "IV ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST225",
+    "day": "Wednesday",
+    "period": 4,
+    "section": "IV ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST225",
+    "day": "Thursday",
+    "period": 1,
+    "section": "IV ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST225",
+    "day": "Thursday",
+    "period": 2,
+    "section": "IV ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST225",
+    "day": "Thursday",
+    "period": 3,
+    "section": "IV ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST225",
+    "day": "Thursday",
+    "period": 4,
+    "section": "IV ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST225",
+    "day": "Friday",
+    "period": 1,
+    "section": "IV ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST225",
+    "day": "Friday",
+    "period": 2,
+    "section": "IV ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST225",
+    "day": "Friday",
+    "period": 3,
+    "section": "IV ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST225",
+    "day": "Friday",
+    "period": 4,
+    "section": "IV ECE A",
+    "subject": "Class"
+  },
+  {
+    "room": "IST227",
+    "day": "Monday",
+    "period": 1,
+    "section": "IV ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST227",
+    "day": "Monday",
+    "period": 2,
+    "section": "IV ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST227",
+    "day": "Monday",
+    "period": 3,
+    "section": "IV ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST227",
+    "day": "Monday",
+    "period": 4,
+    "section": "IV ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST227",
+    "day": "Tuesday",
+    "period": 1,
+    "section": "IV ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST227",
+    "day": "Tuesday",
+    "period": 2,
+    "section": "IV ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST227",
+    "day": "Tuesday",
+    "period": 3,
+    "section": "IV ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST227",
+    "day": "Tuesday",
+    "period": 4,
+    "section": "IV ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST227",
+    "day": "Wednesday",
+    "period": 1,
+    "section": "IV ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST227",
+    "day": "Wednesday",
+    "period": 2,
+    "section": "IV ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST227",
+    "day": "Wednesday",
+    "period": 3,
+    "section": "IV ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST227",
+    "day": "Wednesday",
+    "period": 4,
+    "section": "IV ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST227",
+    "day": "Thursday",
+    "period": 1,
+    "section": "IV ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST227",
+    "day": "Thursday",
+    "period": 2,
+    "section": "IV ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST108",
+    "day": "Thursday",
+    "period": 3,
+    "section": "IV ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST227",
+    "day": "Thursday",
+    "period": 4,
+    "section": "IV ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST227",
+    "day": "Friday",
+    "period": 1,
+    "section": "IV ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST227",
+    "day": "Friday",
+    "period": 2,
+    "section": "IV ECE B",
+    "subject": "Class"
+  },
+  {
+    "room": "IST227",
+    "day": "Friday",
+    "period": 3,
+    "section": "IV ECE B",
+    "subject": "Class"
+  }
+]
